@@ -1,5 +1,5 @@
 # Snake Game
 simple snake game created in java
 <img src="/Snake-game.gif" alt="Alt text" 
-     style=" max-width: 300px"
+     style="margin-top:20px; width: 300px"
      >
